@@ -27,12 +27,9 @@ Our research computers at GMU already contain many of the datasets we will work 
 
 Linux/Unix computers use a command line interface that allow us to automate our data processing tasks much faster than a graphical user interface (GUI) that you may be familiar with in Windows or Mac OS.   
 
-### GMU Computing - ORC and the clusters
+### GMU Computing - ORC and HOPPER
 
-The GMU Office of Research Computing maintains two separate clusters:
-
-1. Hopper is a powerful cluster with over 10,000+ cores, including A100 80GB GPUs and DGX A100 40GB GPUsIt.
-2. Argo is a 1500+ CPU core batch-processing cluster based on the condo model. 
+The GMU Office of Research Computing maintains HOPPER, a powerful cluster with over 10,000+ cores, including A100 80GB GPUs and DGX A100 40GB GPUs.
 
 We will use HOPPER in this class.  
 

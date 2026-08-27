@@ -158,11 +158,11 @@ $ pwd
 
 Let's get some data and examples to work with for this lesson:
 
-First, copy the file `/home/lortizur/classes/clim680_2022/data-shell.zip` to your home directory
+First, copy the file `/home/lortizur/classes/clim680/data-shell.zip` to your home directory
 
 ~~~
 $ cd
-$ cp /home/lortizur/classes/clim680_2022/data-shell.zip .
+$ cp /home/lortizur/classes/clim680/data-shell.zip .
 ~~~
 {: .language-bash}
 
